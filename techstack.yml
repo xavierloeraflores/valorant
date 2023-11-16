@@ -1,0 +1,18 @@
+repo_name: xavierloeraflores/valorant
+report_id: 032473d536e5c7908f4a1dda19743702
+repo_type: Public
+timestamp: '2023-11-16T13:02:57+00:00'
+requested_by: xavierloeraflores
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
